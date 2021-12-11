@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+doing web stuff @ Razorpay 🚀
+
+[![wakatime](https://wakatime.com/badge/user/769a37d2-2463-4e80-a4f7-f210faf2ce6b.svg?style=for-the-badge)](https://wakatime.com/@769a37d2-2463-4e80-a4f7-f210faf2ce6b)
+
 <!--
 **rvisharma/rvisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
